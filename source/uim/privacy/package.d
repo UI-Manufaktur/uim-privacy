@@ -12,3 +12,4 @@ public import uim.oop;
 // uim-privacy packages
 public import uim.privacy.classes;
 public import uim.privacy.interfaces;
+public import uim.privacy.translations;

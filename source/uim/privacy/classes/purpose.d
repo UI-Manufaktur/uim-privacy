@@ -3,7 +3,11 @@ module uim.privacy.classes.purpose;
 
 import uim.privacy;
 
-class DDSGPurpose { // Zweckbestimmung - Zweck und Mittel der Verarbeitung personenbezogener Daten
+class DDSGPurpose  : DDSGEntity { 	// Zweckbestimmung - Zweck und Mittel der Verarbeitung personenbezogener Daten
+	this() {
+		super();
+	}
+	
 /*  : CnATreeElement, IDatenschutzElement {
 	// ID must correspond to entity definition in XML description
 	static final string TYPE_ID = "zweckbestimmung";

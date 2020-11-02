@@ -1,46 +1,37 @@
 
-module uim.privacy.models.ds.VerantwortlicheStelle;
+module uim.privacy.classes.stellungnahme_dsb;
 
 import uim.privacy;
 
-/* 
-
- */
-/**
- * @deprecated
- */
-@Deprecated
-class VerantwortlicheStelle : CnATreeElement 
+//@Deprecated
+class DDSGStellungnahmeDSB {
+/* : CnATreeElement 
 	: IDatenschutzElement {
 	// ID must correspond to entity definition in XML description
-	static final string TYPE_ID = "verantwortlichestelle";
+	static final string TYPE_ID = "stellungnahmedsb";
 	
 
 	/**
 	 * Create new BSIElement.
 	 * @param parent
-	 */
-	VerantwortlicheStelle(CnATreeElement parent) {
+	 * /
+	StellungnahmeDSB(CnATreeElement parent) {
 		super(parent);
 		setEntity(new Entity(TYPE_ID));
         getEntity().initDefaultValues(getTypeFactory());
 	}
 	
-	protected VerantwortlicheStelle() {
+	protected StellungnahmeDSB() {
 	}
 	
 	override string getTitle() {
 		return getEntityType().getName();
 	}
 
-
-	
 	override
 	boolean canContain(Object obj) {
 		return false;
 	}
-	
-	
-
+	 */
 
 }

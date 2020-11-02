@@ -2,8 +2,11 @@ module uim.privacy.classes.personengruppen;
 
 import uim.privacy;
 
-@Deprecated
-class Personengruppen {
+//@Deprecated
+class Personengruppen : DDSGEntity {
+	this() {
+		super();
+	}
 /* : CnATreeElement 
 	: IDatenschutzElement {
 	// ID must correspond to entity definition in XML description

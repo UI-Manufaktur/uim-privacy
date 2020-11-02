@@ -13,3 +13,4 @@ uim-privacy-test-*
 *.o
 *.obj
 *.lst
+dub.selections.json

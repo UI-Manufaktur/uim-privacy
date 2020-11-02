@@ -2,9 +2,9 @@ module uim.privacy.classes.datacontroller;
 
 import uim.privacy;
 
-class DDSGDataController {
-  this() {
-    super();
-  }
+class DDSGDataController : DDSGEntity {
+	this() {
+		super();
+	}
 }
 auto DSGDataController() { return new DDSGDataController; }

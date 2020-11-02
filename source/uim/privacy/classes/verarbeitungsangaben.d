@@ -7,12 +7,13 @@ module uim.privacy.classes.verarbeitungsangaben;
 
 import uim.privacy;
 
-
-/**
- * @deprecated
- */
-@Deprecated
-class Verarbeitungsangaben : CnATreeElement 
+//@Deprecated
+class Verarbeitungsangaben : DDSGEntity {
+	this() {
+		super();
+	}
+	
+/* 	 : CnATreeElement 
 	: IDatenschutzElement {
 	// ID must correspond to entity definition in XML description
 	static final string TYPE_ID = "verarbeitungsangaben";
@@ -30,15 +31,11 @@ class Verarbeitungsangaben : CnATreeElement
 	override string getTitle() {
 		return getEntityType().getName();
 	}
-
-
 	
 	override
 	boolean canContain(Object obj) {
 		return false;
 	}
-	
-	
-
+ */	
 
 }
