@@ -1,0 +1,45 @@
+Aufsichtsbehörde	supervisor authority
+Aufsichtsbehörde in Österreich: Datenschutzbehörde	Austrian Data Protection Authority
+Auftragsverarbeiter	data processor
+Auftragsverarbeitungsvertrag (ADV, AVV)	data processing agreement (DPA)
+Auskunftspflicht	obligation to give information
+berechtigte Interessen des Verantwortlichen	legitimate interests of the controller
+besondere Kategorien personenbezogener Daten (früher: “sensible Daten”)	special categories of personal data (fka: “sensitive data”)
+Betroffenenrechte	data subject rights
+Datenminimierung	data minimisation
+Datenschutz durch datenschutzfreundliche Voreinstellungen	privacy by default
+Datenschutz durch Technik	privacy by design
+Datenschutzbestimmungen	privacy policy
+Datenschutzerklärung/Datenschutzhinweis	privacy notice
+Datenschutzgrundverordnung (DSGVO)	General Data Protection Regulation (GDPR)
+Datenverarbeitung	data processing
+DSGVO-konform	GDPR compliant
+Einwilligung	consent
+Erfüllung einer rechtlichen Verpflichtung	compliance with a legal obligation
+Gründe des öffentlichen Interesses	reasons of public interest
+Grundrecht	fundamental right
+Grundsatz	principle
+lebenswichtige Interessen	vital interests
+Löschfristen	time limits for erasure
+Löschverpflichtung	obligation to erase personal data
+mit vorheriger Einwilligung	with prior consent
+natürliche Person	natural person / data subject
+personenbezogene Daten	personal data
+Recht auf Auskunft	right of access to personal data (by the data subject) / right to gain access to the stored personal data
+Recht auf Benachrichtigung	right to get notified
+Recht auf Daten in einem maschinenlesbaren Format	right to receive personal data in a machine-readable format
+Recht auf Löschung	right to erasure
+Recht auf Vergessenwerden	right to be forgotten
+Rechtmäßigkeit der Verarbeitung	lawfulness of processing
+Transparenz	transparency
+Verantwortlicher	data controller
+Verantwortung	accountability
+Verarbeitungsverzeichnis/Verzeichnis der Verarbeitungstätigkeiten (VV)	record of processing activities
+Vertragserfüllung	performance of a contract
+Zweck und Mittel der Verarbeitung personenbezogener Daten	purpose and means of the processing of the personal data
+Zweckbindung	purpose limitation
+Rechte nach DSG 2000:	
+Recht auf Geheimhaltung	right to secrecy
+Recht auf Auskunft	right of access
+Recht auf Richtigstellung oder Löschung	right to rectification and deletion
+Recht auf Widerspruch	right to object
