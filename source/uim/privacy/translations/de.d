@@ -2,6 +2,7 @@ module uim.privacy.translations.de;
 
 import uim.privacy;
 
+@safe: 
 static this() {
   string[string] values; 
   if ("de" !in translations) {

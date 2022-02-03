@@ -2,6 +2,7 @@ module uim.privacy.translations.en;
 
 import uim.privacy;
 
+@safe: 
 static this() {
   string[string] values; 
   if ("en" !in translations) {
