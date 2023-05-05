@@ -1,11 +1,15 @@
 {
-	"name": "uim-privacy",
+	"name": "uim-org",
 	"description": "A minimal D application.",
 	"authors": ["UI Manufaktur Team"],
 	"copyright": "Copyright © 2017-2022, UI Manufaktur UG",
 	"license": "Apache-2.0",
 	"targetType": "library",
 	"dependencies": {
+    "arsd-official": "~>9.5.0",
+    "botan": "~>1.12.19",
+    "dlib": "~>0.21.0",
+    "mir-algorithm": "~>3.10.60",
 		"vibe-d": "~>0.9.3"
 	},
 	"sourcePaths": [
